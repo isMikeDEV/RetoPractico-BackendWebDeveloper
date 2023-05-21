@@ -1,0 +1,15 @@
+**REFERENCIAS**
+Documentaciòn de MongoDB. Disponible en: https://www.mongodb.com/docs/manual/tutorial/
+Documentaciòn de Node.js. Disponible en: https://nodejs.org/en/docs
+Operaciones CRUD con MongoDB. Disponible en: https://www.mongodb.com/basics/crud
+Conexiòn a MongoDB usando Node.js. Disponible en: https://www.mongodb.com/developer/languages/javascript/node-connect-mongodb/
+
+**DEPENDENCIAS**
+Express. Disponible en: http://expressjs.com/en/5x/api.html
+Mongoose. Disponible en: https://mongoosejs.com/docs/guide.html
+
+**DEPENDENCIAS PARA EL DEV**
+Nodemon. Disponible en: https://github.com/remy/nodemon#nodemon
+
+**EXTENSIONES PARA VS CODE**
+REST Client. Disponible en: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
