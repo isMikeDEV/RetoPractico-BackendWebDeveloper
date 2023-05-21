@@ -1,0 +1,30 @@
+###
+POST http://localhost:9000/api/packages HTTP/1.1
+Content-Type: application/json
+
+{
+    "trackingNumber": "mvm123",
+    "type": "terrestre",
+    "sender": "Leonardo Mata",
+    "destination": "Rusia"
+}
+
+###
+GET http://localhost:9000/api/packages HTTP/1.1
+
+###
+GET http://localhost:9000/api/packages/646997f265139cd4754076af HTTP/1.1
+
+###
+PUT http://localhost:9000/api/packages/646997f265139cd4754076af HTTP/1.1
+Content-Type: application/json
+
+{
+    "trackingNumber": "muuuu",
+    "type": "aereo",
+    "sender": "Leonardo Mata",
+    "destination": "Rusia"
+}
+
+###
+DELETE http://localhost:9000/api/packages/64699415da33c84262926ca7 HTTP/1.1
