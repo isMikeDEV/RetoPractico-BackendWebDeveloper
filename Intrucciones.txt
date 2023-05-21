@@ -19,7 +19,3 @@ repo).
   Simplifica las acciones de crear y modificar en una sola función.
   Por cada acción sólo podrás hacer 1 consulta a la bd.
 
-
-
-nodemon
-Express.js
