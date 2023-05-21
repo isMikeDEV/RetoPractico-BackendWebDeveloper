@@ -42,3 +42,5 @@ Esta documentación describe la estructura y los detalles de la API para la gest
 
 Recuerda que para utilizar la aplicación correctamente, debes crear un archivo `.env` en el mismo directorio que el archivo principal y configurar las variables de entorno adecuadamente.Posteriormente realizar el testeo de peticiones por medio de REST Client
 
+![image](https://github.com/isMikeDEV/RetoPractico-BackendWebDeveloper/assets/76235094/58c0afaf-24a9-423c-8064-bfd3a644c180)
+
